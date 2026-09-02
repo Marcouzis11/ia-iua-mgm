@@ -17,6 +17,7 @@ dependencies = [
     "scikit-learn>=1.4.0",
     "category-encoders>=2.6.0",
     "scipy>=1.11.0",
+    "missingno>=0.5.2",
 ]
 
 [build-system]
